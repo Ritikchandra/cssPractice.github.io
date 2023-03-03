@@ -1,0 +1,25 @@
+button{
+  color: blue;
+  background-color: bisque;
+  border: none;
+  padding: 20px;
+}
+button:hover{
+  cursor: pointer;
+  opacity: 0.8;
+}
+body {
+  background-color: violet;
+  color: green;
+  text-align: center;
+}
+div{
+  background-color: blue;
+  height: 500px;
+   padding:250px;
+  font-size:50px;
+  color: white;
+}
+p{
+  font-size: 20px;
+}
